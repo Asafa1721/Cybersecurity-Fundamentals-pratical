@@ -18,7 +18,8 @@ This repository documents my completion of Workbook 1 of the Cybersecurity Acade
 - 📝 [Notes: Cybersecurity Tools](./notes/tools.md)
 
 ## What I Learned
-*(Write this honestly, in your own words — a couple of sentences on what surprised you or clicked for you while doing the risk assessment. Recruiters value self-awareness over polish here.)*
+
+Through this project, I learned how to identify and evaluate cybersecurity risks within a fictional company. I practiced identifying valuable business assets, assessing threats and vulnerabilities, and understanding how confidentiality, integrity, and availability (CIA) affect information security. I also learned how to create a professional risk assessment report, build a risk register, prioritize risks based on their likelihood and impact, and recommend practical security controls to reduce those risks. Finally, I improved my documentation and GitHub portfolio skills by organizing the project in a clear and professional way.
 
 > Example starting point: "Building the risk register made me realize that most breaches in the real-world case studies (WannaCry, Colonial Pipeline) came down to one missed basic — an unpatched system or a missing MFA setting — rather than some highly advanced attack. That changed how I think about prioritizing security basics."
 
