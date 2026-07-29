@@ -1,0 +1,9 @@
+Asset,Threat,Likelihood,Impact,Mitigation
+Customer payment data,Payment system breach via third-party vendor,Medium,High,"Network segmentation between vendor access and payment systems; PCI-DSS compliant processor"
+Employee email accounts,Phishing leading to credential theft,High,Medium,"Security awareness training; MFA on all email accounts"
+Point-of-sale (POS) terminals,Malware infection via unpatched software,Medium,High,"Regular patch management; endpoint antivirus"
+Company Wi-Fi network,Unauthorized access from outside the store,Low,Medium,"WPA3 encryption; guest network separated from internal network"
+Customer database (CRM),Ransomware attack,Medium,High,"Offline/immutable backups; least-privilege access to the database"
+Admin/owner accounts,Password reuse leading to account takeover,Medium,High,"Unique passwords via a password manager; mandatory MFA"
+Company laptops (remote work),Device theft or loss,Low,Medium,"Full-disk encryption; remote wipe capability"
+Online store website,DDoS attack during a sales event,Low,Medium,"DDoS protection service via hosting provider/CDN"
