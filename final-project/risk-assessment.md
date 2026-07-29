@@ -63,7 +63,5 @@ Justification: Beacon Retail Co.'s biggest exposure is unpatched software across
 
 ## 6. Executive Summary
 
-*(Move your finished summary from the top of this document here, or keep it at the top — either is fine. Recruiters read top-down, so most people put it first.)*
-
 ---
 *This is a training exercise built on a fictional company. No real personal or customer data is used.*
